@@ -31,5 +31,5 @@ public class Truck {
 
     public double getEngineTemperature() { return engineTemperature; }
     public void setEngineTemperature(double engineTemperature) {
-        double engineTemperature1 = this.engineTemperature;}
+        this.engineTemperature = engineTemperature;}
 }
